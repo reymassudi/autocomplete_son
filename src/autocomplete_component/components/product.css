@@ -1,0 +1,15 @@
+.product {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  cursor: pointer;
+}
+.product:hover {
+  background-color: #97D9E14F;
+}
+.product .price {
+  color: gray;
+  font-size: 0.8rem;
+}
+
+/*# sourceMappingURL=product.css.map */
